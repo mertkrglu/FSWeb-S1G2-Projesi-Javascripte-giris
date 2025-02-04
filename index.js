@@ -56,6 +56,7 @@ function carpma(sayi1, sayi2) {
   return sayi1 * sayi2;
 }
 console.log(carpam(sayi1, sayi2));
+//  kod burada
 
 /* Görev 2 : Köpeğin Yaşı */
 
